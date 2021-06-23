@@ -4,6 +4,7 @@ function App() {
   // function that targets body and adds an dataset attribute.
   // The attribute will be either 'light' or 'dark'
 
+  //Test From Chay-Chay
   // test from jacob
   const setTheme = () => {
     let dataThemeAttribute = "data-theme";
